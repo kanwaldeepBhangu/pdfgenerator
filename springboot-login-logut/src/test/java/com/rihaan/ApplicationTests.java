@@ -1,4 +1,4 @@
-package net.javaguides.springboot.Springboothelloworldapplication;
+package com.rihaan;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
